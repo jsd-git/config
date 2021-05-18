@@ -1,1 +1,1 @@
-source $PWD/.bash_aliases
+source $PWD/bash_aliases
